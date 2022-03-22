@@ -28,8 +28,9 @@ Users should be able to:
 
 ## My process
 
-[YouTube - part 1](https://youtu.be/zkmw0xgFpfg)
-[YouTube - part 2](https://youtu.be/L9HElpQ82KA)
+YouTube
+- [part 1](https://youtu.be/zkmw0xgFpfg)
+- [part 2](https://youtu.be/L9HElpQ82KA)
 
 ### Built with
 
